@@ -4,7 +4,6 @@
 ! author: Wonder
 
 $discard,site=wikipedia.org
-$discard,site=*.wikipedia.org
 $discard,site=wikipedia.com
 $discard,site=aithor.com
 $discard,site=mbaskool.com
