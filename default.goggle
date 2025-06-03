@@ -2,3 +2,26 @@
 ! description: goggle
 ! public: false
 ! author: Wonder
+
+! Discard specific sites we don't want in results
+$site=aithor.com$discard
+$site=mbaskool.com$discard
+$site=manta.com$discard
+$site=owler.com$discard
+$site=engadget.com$discard
+$site=lifehacker.com$discard
+$site=gizmodo.com$discard
+$site=mashable.com$discard
+$site=buzzfeed.com$discard
+$site=gitlab.com$discard
+$site=instructables.com$discard
+$site=wikihow.com$discard
+$site=stackexchange.com$discard
+$site=stackoverflow.com$discard
+$site=ask.com$discard
+$site=answers.yahoo.com$discard
+$site=quora.com$discard
+$site=reddit.com$discard
+$site=wikipedia.org$discard
+$site=wikipedia.com$discard
+$site=statista.com$discard
